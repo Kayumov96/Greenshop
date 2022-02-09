@@ -1,0 +1,58 @@
+*{
+ font-family: Cera pro; 
+ border: 1px solid greenyellow;
+}
+body{
+  font-style: Cera pro;
+  margin: 0 8%;
+ 
+}
+.active{
+  font-weight: 900;
+  color:  #46A358;
+
+}
+.plan{
+  margin-top: 15px;
+  height: 360px;
+  line-height: 40px;
+  font-size: 12px;
+  font-weight: 300;
+  padding-left: 8%;
+  padding-right: 6%;
+  padding-top: 4%;
+}
+.activ{
+  color:  #46A358;
+}
+.plant{
+  
+  line-height: 40px;
+  font-size: 12px;
+  font-weight: 300;
+  padding-left: 8%;
+  padding-right: 6%;
+  padding-top: 4%;
+  height: 170px;
+}
+.elp{
+  margin: 0 5px;
+}
+.ssale{
+  width: 266px;
+  height: 75px;
+  margin-left: 8%;
+}
+.Offer{
+  width: 300px;
+  height: 340px;
+  color: #edfaef;
+}
+.h3{
+  margin: 0;
+  padding-left: 18%;
+  size: 23px;
+}
+.sorting{
+  margin: 0 20px;
+}
